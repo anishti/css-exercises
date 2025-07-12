@@ -1,3 +1,9 @@
+.black-bt, .yellow-bt {
+     font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+
 .black-bt { 
 
     background-color: black;
@@ -8,21 +14,5 @@
 .yellow-bt {
 
     background-color: yellow;
-
-}
-
-
-
-.style-bt {
-    font-size: 28px;
-    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
-}
-
-
-.left-button, .right-button {
-
-    font-size: 28px;
-    font-family: 'Helvetica','Times New Roman','sans-serif';
-
 
 }
