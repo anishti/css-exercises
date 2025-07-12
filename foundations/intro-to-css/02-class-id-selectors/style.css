@@ -1,0 +1,26 @@
+.odd {
+
+    background:  rgb(255,167,167);
+    font-family: 'Verdana', 'DejaVu Sans', 'Sans-serif';
+
+}
+
+
+#second_div {
+  color: RGB(21 15 215);
+  font-size: 36px;
+}
+
+
+.odd .cooler {
+
+font-size: 36px;
+}
+
+#fourth_div {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
